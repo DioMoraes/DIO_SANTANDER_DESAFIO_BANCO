@@ -45,3 +45,6 @@ Este é um projeto de terminal que simula um sistema bancário básico, com func
 
    ```bash
    python banco.py
+
+
+## Versão 1.1 usando funções
